@@ -1,0 +1,3 @@
+### 使い方
+"example.ipynb"に適当なデータでの学習コードがあるのでデータさえ準備すれば学習とCVによるパラメータチューニングができます。
+コードの実行にはpyproject.tomlに記載の環境と、requirements.txtに記載のパッケージのインストールが必要。pythonのバージョンを合わせてpip install -r requiremets.txtを実行すればコードは動くと思います。
